@@ -1,14 +1,14 @@
 site:
-  url: https://example.com # same as `site` in astro.config.mjs
-  title: My Blog
-  subtitle: My Blog Subtitle
-  description: D-Sketon's blog
-  keywords: D-Sketon, blog, astro, theme
-  author: D-Sketon
+  url: https://astro-v2.kemiaofx.top # same as `site` in astro.config.mjs
+  title: 克喵Kemeow's Blog
+  subtitle: 致力于分享资源和生活的博客~
+  description: 致力于分享资源和生活
+  keywords: 克喵, blog, astro, 资源, 分享, 博客, 生活, 分享资源
+  author: 克喵Kemeow
   language: zh-CN
 
 footer:
-  since: 2020 # 2020 - current year
+  since: 2025 # 2020 - current year
   powered: true
   count: true
   busuanzi: true
