@@ -67,6 +67,7 @@
 
 ## 使用
 ```bash
+删去"packageManager": "pnpm@9.6.0"字段
 git clone https://github.com/D-Sketon/astro-theme-reimu.git
 cd ./astro-theme-reimu
 
